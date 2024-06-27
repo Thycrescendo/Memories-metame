@@ -109,9 +109,7 @@ Users should be able to:
 - Avoid lag of uploading images of larger pixels.
 
 ## Credits
-- Keegan Paul Colaco
-- Sudipta Shaw
-- Saurav Kuman
-- Saikumar Iyer
-- Saachi Almeida
+- Antwood
+- Arlven
+- Broadleen
 
